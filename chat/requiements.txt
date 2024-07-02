@@ -1,0 +1,3 @@
+pip install django
+python -m pip install -U channels
+python -m pip install -U daphne
